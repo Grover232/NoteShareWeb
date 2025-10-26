@@ -1,0 +1,16 @@
+com\mycompany\noteshareweb\dao\TestConnection.class
+com\mycompany\noteshareweb\servlet\EliminarDocumentoServlet.class
+com\mycompany\noteshareweb\model\Usuario.class
+com\mycompany\noteshareweb\servlet\LogoutServlet.class
+com\mycompany\noteshareweb\dao\DocumentoDAO.class
+com\mycompany\noteshareweb\servlet\HomeServlet.class
+com\mycompany\noteshareweb\servlet\RegistroServlet.class
+com\mycompany\noteshareweb\JakartaRestConfiguration.class
+com\mycompany\noteshareweb\model\Documento.class
+com\mycompany\noteshareweb\resources\JakartaEE10Resource.class
+com\mycompany\noteshareweb\dao\UsuarioDAO.class
+com\mycompany\noteshareweb\servlet\DownloadServlet.class
+com\mycompany\noteshareweb\servlet\LoginServlet.class
+com\mycompany\noteshareweb\dao\TestUsuarioDAO.class
+com\mycompany\noteshareweb\dao\DBConnection.class
+com\mycompany\noteshareweb\servlet\UploadServlet.class

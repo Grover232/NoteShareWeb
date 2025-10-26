@@ -1,0 +1,344 @@
+.right-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.right-right {
+  gap: 45px;
+  width: 448px;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+ 
+.right-frame1st {
+  gap: 38px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.right-text10 {
+  gap: 10px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.right-text11 {
+  color: rgba(29, 40, 56, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 32px;
+  align-self: stretch;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 44px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.right-form {
+  gap: 24px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.right-inputfield1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.right-frame-inputfieldbase1 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.right-inputwithlabel1 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.right-text12 {
+  color: rgba(52, 64, 83, 1);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+ 
+.right-input1 {
+  gap: 8px;
+  display: flex;
+  padding: 10px 14px;
+  overflow: hidden;
+  align-self: stretch;
+  box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(207, 212, 220, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.right-content1 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+ 
+.right-mail {
+  width: 20px;
+  height: 20px;
+}
+ 
+.right-text13 {
+  color: rgba(102, 112, 132, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.right-inputfield2 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.right-frame-inputfieldbase2 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.right-inputwithlabel2 {
+  gap: 6px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.right-text14 {
+  color: rgba(52, 64, 83, 1);
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+ 
+.right-input2 {
+  gap: 8px;
+  display: flex;
+  padding: 10px 14px;
+  overflow: hidden;
+  align-self: stretch;
+  box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05000000074505806) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(207, 212, 220, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.right-content2 {
+  gap: 8px;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+}
+ 
+.right-user01 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.right-text15 {
+  color: rgba(15, 23, 40, 1);
+  height: auto;
+  flex-grow: 1;
+  text-align: left;
+  line-height: 24px;
+}
+ 
+.right-frame2nd {
+  gap: 38px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-end;
+  flex-direction: column;
+}
+ 
+.right-frame-buttonbase {
+  gap: 12px;
+  display: flex;
+  padding: 16px 28px;
+  overflow: hidden;
+  box-shadow: 0px 1px 2px 0px rgba(16, 24, 40, 0.05000000074505806) ;
+  align-items: center;
+  border-radius: 8px;
+  justify-content: center;
+  background-color: rgba(21, 111, 238, 1);
+}
+ 
+.right-text16 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  text-align: left;
+  line-height: 28px;
+}
+ 
+.right-chevronright {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.right-group1 {
+  top: 6.999997138977051px;
+  left: 9.499978065490723px;
+  width: 5px;
+  height: 10px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.right-group2 {
+  top: 0px;
+  left: 0px;
+  width: 5px;
+  height: 10px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.right-path {
+  top: 0px;
+  left: 0px;
+  width: 5px;
+  height: 10px;
+  position: absolute;
+}
+ 
+.right-text17 {
+  gap: 90px;
+  display: flex;
+  padding: 34px 0 0;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(207, 212, 220, 1);
+  border-style: solid;
+  border-width: 1px 0 0;
+  justify-content: space-between;
+}
+ 
+.right-text18 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+ 
+.right-text19 {
+  color: rgba(71, 84, 102, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 500;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.right-login-btn {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+ 
+.right-text20 {
+  color: rgba(46, 144, 250, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.right-link {
+  display: contents;
+}
+ 
+.right-container2 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.right-icon1 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.right-text21 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
